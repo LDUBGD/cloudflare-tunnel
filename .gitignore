@@ -1,0 +1,9 @@
+# cloudflare-tunnel — .gitignore
+
+# Секрети — ніколи не комітити
+.env
+
+# Editors
+.DS_Store
+*.swp
+*~
